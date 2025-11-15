@@ -1,0 +1,5 @@
+company_id,period_end,note_type,text
+C001,2023-12-31,md&a,Revenue increased due to software sales and improved retention.
+C001,2024-03-31,risk,"Risks include FX volatility, delayed payments, and supply constraints."
+C002,2023-06-30,md&a,Margins improved due to lower raw material prices.
+C003,2023-12-31,accounting_policy,Company follows IFRS. No major accounting changes.

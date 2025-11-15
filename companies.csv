@@ -1,0 +1,4 @@
+company_id,name,industry,country,fiscal_year_end,market_cap_usd,employee_count,listing_status
+C001,Afritech Holdings,Technology,Kenya,12-31,450000000,320,Public
+C002,Sabuni Manufacturing,Consumer Goods,Kenya,06-30,120000000,150,Private
+C003,Eastern Logistics,Transportation,Uganda,12-31,78000000,220,Public
